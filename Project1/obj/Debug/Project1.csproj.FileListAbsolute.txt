@@ -1,0 +1,7 @@
+D:\SAIT\OOP 2\Projects\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+D:\SAIT\OOP 2\Projects\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+D:\SAIT\OOP 2\Projects\Project1\bin\Debug\Project1.exe.config
+D:\SAIT\OOP 2\Projects\Project1\bin\Debug\Project1.exe
+D:\SAIT\OOP 2\Projects\Project1\bin\Debug\Project1.pdb
+D:\SAIT\OOP 2\Projects\Project1\obj\Debug\Project1.exe
+D:\SAIT\OOP 2\Projects\Project1\obj\Debug\Project1.pdb
